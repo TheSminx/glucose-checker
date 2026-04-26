@@ -29,7 +29,7 @@ An unofficial Alexa skill to read blood glucose values from your **FreeStyle Lib
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/glucose-checker.git
+git clone https://github.com/TheSminx/glucose-checker.git
 cd glucose-checker
 ```
 
