@@ -1,0 +1,11 @@
+{
+  "name": "alexa-glicemia-checker",
+  "version": "1.0.0",
+  "description": "Skill Alexa per leggere la glicemia da LibreLink",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.13.0",
+    "ask-sdk-model": "^1.38.0",
+    "axios": "^1.7.9"
+  }
+}
