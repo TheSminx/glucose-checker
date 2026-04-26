@@ -1,0 +1,55 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "glicemia checker",
+      "intents": [
+        {
+          "name": "GetCurrentGlucoseIntent",
+          "slots": [],
+          "samples": [
+            "qual è la mia glicemia",
+            "dimmi la glicemia",
+            "come sta la mia glicemia",
+            "controlla la glicemia",
+            "qual è il mio livello di glucosio",
+            "glicemia attuale",
+            "quanto è la glicemia",
+            "dimmi il glucosio",
+            "leggi il sensore",
+            "controlla il sensore"
+          ]
+        },
+        {
+          "name": "GetGlucoseHistoryIntent",
+          "slots": [],
+          "samples": [
+            "dimmi lo storico",
+            "come sono andate le glicemie",
+            "dimmi le glicemie di oggi",
+            "storico glicemico",
+            "come è andata la glicemia nelle ultime ore",
+            "riepilogo glicemia",
+            "media glicemia"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "it-IT": {
+          "name": "Glicemia Checker",
+          "summary": "Legge la tua glicemia dal sensore FreeStyle Libre tramite LibreLink.",
+          "description": "Skill personale per leggere i valori di glucosio dal tuo sensore FreeStyle Libre 2 o 3 tramite l'account LibreLinkUp.",
+          "examplePhrases": [
+            "Alexa, apri glicemia checker",
+            "qual è la mia glicemia",
+            "dimmi lo storico glicemico"
+          ],
+          "keywords": ["glicemia", "glucosio", "freestyle libre", "diabete", "sensore"],
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f14571b97f6a4fc7896ffa61c61e9d96/APP_ICON?versionId=cjjk9bVelFXgAYvk.Ob7S4z4zxm.ozLR",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/f14571b97f6a4fc7896ffa61c61e9d96/APP_ICON_LARGE?versionId=lVKCLVm0dHMzHsG4WlmYuFTxRYCH0Eqw"
+        }
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "Skill personale. Chiedi: qual è la mia glicemia.",
+      "category": "HEALTH_AND_FITNESS",
+      "distributionCountries": ["IT"]
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
