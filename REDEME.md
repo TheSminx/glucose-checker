@@ -134,7 +134,7 @@ glucose-checker/
 
 If this skill helped you, consider buying me a coffee! It helps me keep the project updated when LibreLink changes their APIs.
 
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/YOUR_PAYPAL_USERNAME)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/EdoardoSmimmo)
 
 ---
 
